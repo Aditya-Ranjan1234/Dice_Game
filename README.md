@@ -6,6 +6,8 @@ The rules are simple: the player with the higher roll wins the round. If both pl
 
 To play the game:
 
+Game Link : https://aditya-ranjan1234.github.io/Dice_Game/
+
 1. Open the HTML file in a web browser.
 2. Each player takes turns clicking the "Roll Dice" button to generate their roll.
 3. The game announces the winner or indicates a draw after each roll.
