@@ -11,7 +11,7 @@
 }
 
 body {
-  background-color: #393E46;
+background: radial-gradient(circle at 10% 20%, rgb(255, 19, 120) 0%, rgb(0, 0, 0) 90.5%);
 }
 
 h1 {
