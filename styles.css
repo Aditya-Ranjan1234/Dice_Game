@@ -11,7 +11,8 @@
 }
 
 body {
-background: radial-gradient(circle at 10% 20%, rgb(255, 19, 120) 0%, rgb(0, 0, 0) 90.5%);
+  background: radial-gradient(circle at 10% 20%, rgb(255, 19, 120) 0%, rgb(0, 0, 0) 90.5%);
+  background-attachment: fixed;
 }
 
 h1 {
@@ -44,4 +45,30 @@ footer {
   text-align: center;
   color: #4ECCA3;
   font-family: 'Indie Flower', cursive;
+}
+
+@media (max-width: 896px) {
+
+  h1 {
+    margin: 1rem ;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 5rem;
+    color: #4ECCA3;
+  }
+
+  .dice {
+    text-align: center;
+    display: block;
+  
+  }
+
+  img {
+    width: 50%;
+  }
+
+  body {
+    height: 100%;
+    width: 100%;
+  }
 }
