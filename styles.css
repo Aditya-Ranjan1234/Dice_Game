@@ -59,12 +59,13 @@ footer {
 
   .dice {
     text-align: center;
-    display: block;
+    display: inline;
   
   }
 
   img {
-    width: 50%;
+    height: 40%;
+    align-self: center;
   }
 
   body {
