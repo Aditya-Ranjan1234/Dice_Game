@@ -50,10 +50,10 @@ footer {
 @media (max-width: 896px) {
 
   h1 {
-    margin: 1rem ;
+    margin: 3rem ;
     font-family: 'Lobster', cursive;
     text-shadow: 5px 0 #232931;
-    font-size: 5rem;
+    font-size: 3rem;
     color: #4ECCA3;
   }
 
@@ -64,7 +64,7 @@ footer {
   }
 
   img {
-    height: 40%;
+    height: 30%;
     align-self: center;
   }
 
